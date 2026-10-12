@@ -31,5 +31,5 @@ See below what exactly I am learning on my journey...
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mert-misir-06abbb1a4/)
 [![Send](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:arifmertmisir@gmail.com)
 
-* 💬 Ask me about: **How to break up with enterprise Java and fall madly in love with modern Web Development.**
+* 💬 Ask me about: Moving from enterprise Java to modern frontend development.
 * ⚡ Fun fact: **I used to handle heavy backend logs for breakfast. Now I spend 45 minutes arguing with myself over whether a button's border-radius should be `4px` or `8px`. (Spoiler: It's always 8px).**
